@@ -1,5 +1,7 @@
 An OSX style Icon for Mixxx
 ==
+![OSX Mixx-Icon](https://raw.githubusercontent.com/cbleslie/Mixxx-OSX-Icon/master/Icon/preview.png)
+
 Mixxx is one of the most bad ass opensource projects. Check it out at Mixxx.org 
 
 License
